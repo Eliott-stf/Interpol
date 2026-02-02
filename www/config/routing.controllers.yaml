@@ -1,0 +1,5 @@
+# Automatically import controllers as routes
+controllers:
+    namespace: App\Controller
+    path: ../src/Controller
+    name_prefix: app_
