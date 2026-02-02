@@ -1,5 +1,5 @@
 <?php
-// BRANCH DEV
+
 namespace App\Entity;
 
 use App\Repository\MediaRepository;
